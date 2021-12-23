@@ -1,10 +1,13 @@
 # about-me
-My name is Dice Sanchez.
+## My name is Dice Sanchez.
 
-My email is gabrielles6281@hstat.org.
+My **email** is gabrielles6281@hstat.org.
 
-My school is hstat.
+My _school_ is [hstat](https://www.hstat.org/)
 
-My neck is currently hurting.
+* I like rhythm games
+* I like listening to music
 
-Im tired right now.
+I also like:
+1. Drawing
+2. Watching TV.
