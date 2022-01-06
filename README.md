@@ -22,3 +22,9 @@ Schedule
 7. Lunch 
 8. Chemistry 
 
+Your favorite color?
+
+What's your favorite video games?
+
+Do you have any pets? :D
+
